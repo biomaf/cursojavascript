@@ -1,2 +1,3 @@
 # cursojavascript
-Este es un repositorio para practicar javascript
+Este proyecta es una prueba de escritorio para ver como clonar un repositorio desde github a mi computadora.
+
