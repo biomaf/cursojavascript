@@ -1,3 +1,14 @@
 body{
-    background-color: blue;
+    background-color: rgb(222, 243, 209);
+}
+
+.titulo-principal{
+    font-size: 2em;
+    color: rgb(241, 12, 12);
+
+
+}
+
+.harley{
+    width: 200px;
 }
